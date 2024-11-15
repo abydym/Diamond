@@ -1,0 +1,1 @@
+"D:\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "C:\Users\18326\Desktop\新建文件夹\Data Structure\Homework_1" -B "C:\Users\18326\Desktop\新建文件夹\Data Structure\Homework_1\cmake-build-debug"
