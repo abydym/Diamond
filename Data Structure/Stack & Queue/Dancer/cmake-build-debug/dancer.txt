@@ -1,0 +1,13 @@
+Harry_Potter Man
+Hermione_Granger Woman
+Cho_Chang Woman
+Ron_Weasley Man
+Albus_Dumbledore Man
+James_Potter Man
+Sirius_Black Man
+Lily_Potter Woman
+Moaning_Murtle Woman
+Severus_Snape Man
+Sirius_Black Man
+Ginny_Weasley Woman
+Draco_Malfoy Man
