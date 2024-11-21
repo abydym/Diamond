@@ -1,0 +1,3 @@
+﻿  U3_Card_VS.cpp
+D:\Projects\U3_Card_VS\U3_Card_VS\U3_Card_VS.cpp(40,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  U3_Card_VS.vcxproj -> D:\Projects\U3_Card_VS\x64\Debug\U3_Card_VS.exe

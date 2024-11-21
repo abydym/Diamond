@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U3_Card_VS", "U3_Card_VS\U3_Card_VS.vcxproj", "{D834BFBC-0A61-44A9-BA60-385F5962DD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Debug|x64.ActiveCfg = Debug|x64
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Debug|x64.Build.0 = Debug|x64
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Debug|x86.Build.0 = Debug|Win32
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Release|x64.ActiveCfg = Release|x64
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Release|x64.Build.0 = Release|x64
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Release|x86.ActiveCfg = Release|Win32
+		{D834BFBC-0A61-44A9-BA60-385F5962DD4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A0CA07-7123-4EB7-87B6-1E9A773D069D}
+	EndGlobalSection
+EndGlobal
