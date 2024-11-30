@@ -1,0 +1,7 @@
+﻿  U4_TheOldManAndSea_VS.cpp
+D:\Projects\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS.cpp(17,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS.cpp(42,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS.cpp(86,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS.cpp(98,28): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Projects\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS\U4_TheOldManAndSea_VS.cpp(110,40): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  U4_TheOldManAndSea_VS.vcxproj -> D:\Projects\U4_TheOldManAndSea_VS\x64\Debug\U4_TheOldManAndSea_VS.exe
