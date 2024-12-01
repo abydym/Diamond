@@ -30,3 +30,5 @@
 > ![image](https://github.com/abydym/Diamond/blob/main/Data%20Structure/String%2C%20Array%20%26%20Generalized%20tables/Sunday/Pictures/Q3.png)
 > 
 > 可以看到，巧妙地利用字符串的特点可以有效减少匹配的次数，提高匹配效率。
+>
+> ##### 要求：实现Sunday算法（网上也都能搜到源码，要求仿照实现），并使用Sunday算法，搜索《百年孤独》小说txt文件中，“布恩地亚”一词，出现的次数。
