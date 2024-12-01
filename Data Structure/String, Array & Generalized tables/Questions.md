@@ -18,3 +18,15 @@
 > 在每一次的比较中，一旦出现失配，算法会去看子串中在当前匹配段后一位的字符 ，找到这个字符在子串中最右出现的位置，并与其对齐，如果在子串中没有对应的字符 ，则直接右移跳过整段的匹配段。
 >
 > 看下面的例子：
+> 
+> ![image](https://github.com/abydym/Diamond/blob/main/Data%20Structure/String%2C%20Array%20%26%20Generalized%20tables/Sunday/Pictures/Q1.png)
+> 
+> 母串与子串在当前第五个字母位置失配，直接去看子串在当前匹配段（灰色线框）的后一个字符为'b'（绿色方框），并在子串中找到最靠右的'b'， 右移1步至两个'b'对齐（下图蓝色线框）。
+> 
+> ![image](https://github.com/abydym/Diamond/blob/main/Data%20Structure/String%2C%20Array%20%26%20Generalized%20tables/Sunday/Pictures/Q2.png)
+> 
+> 新的位置仍然失配， 在该匹配段的后一个字符  为'c'，同样的操作，将子串右移3位，使子串中的'c'与母串中的这个'c'对齐，成功匹配。
+> 
+> ![image](https://github.com/abydym/Diamond/blob/main/Data%20Structure/String%2C%20Array%20%26%20Generalized%20tables/Sunday/Pictures/Q3.png)
+> 
+> 可以看到，巧妙地利用字符串的特点可以有效减少匹配的次数，提高匹配效率。
