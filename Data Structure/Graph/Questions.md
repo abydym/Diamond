@@ -9,14 +9,14 @@
 >
 > 例图如下：
 >
-> ![image]()
+> ![image](https://github.com/abydym/Diamond/blob/main/Data%20Structure/Graph/Pictures/Example.png)
 > 
 > 如果从某用户想从A点到G点，请给出最短路径。则系统输出A到G的最短距离是11。（路径：A-B-D-F-G），具体输入样式如下：
 > ##### 请输入起点位置：A
 > 
 > ##### 请输入终点位置：G
 > 
-> ##### 输出：
+> 输出：
 > 
 > ##### A到G的最短路径：11
 > 
