@@ -1,0 +1,4 @@
+This is home2_test.txt
+
+Data from parent
+Data from child
