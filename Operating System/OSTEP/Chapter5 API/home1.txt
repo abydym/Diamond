@@ -1,0 +1,10 @@
+Test! (pid:2451449)
+The initial value of x is 100
+This is parent of 2451450 (pid:2451449)! The value of x is 100.
+Parent process changed x to 300
+After changes:(pid:2451449)The value of x is 300
+Test! (pid:2451449)
+The initial value of x is 100
+This is child! The value of x is 100.(pid:2451450)
+Child process changed x to 200
+After changes:(pid:2451450)The value of x is 200
