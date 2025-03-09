@@ -26,6 +26,7 @@ int main(int argc, char *argv[]){
 		printf("in the spawning (parent) process...\n");
 		close(file_descriptors[OUTPUT]);
 		returned_count = read(file_descriptors[INPUT],buf,sizeof(buf));
+		printf("%d bytes of data received from spawned process: %s\n",returned_count,buf);
 	}
 	return 0;
 }
