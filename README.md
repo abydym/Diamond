@@ -1,18 +1,30 @@
-# Diamond
+# Diamond ✨
 
 一个用于存放我的部分作业以及学习内容的仓库....🙂
 
-代码水平实在有限，欢迎各位大佬提供修改意见！😙
+代码水平实在有限，欢迎各位大佬提供修改意见！😙 你的每一次建议都是我进步的阶梯！🚀
 
 目前已有内容：
 
-#### 数据结构(Data Structure)
-> 1.线性表(Linear List)
->
-> 2.栈和队列(Stack & Queue)
->
-> 3.串，数组和广义表(String, Array & Generalized tables)
->
-> 4.图(Graph)
+#### 数据结构 (Data Structure) 🏗️
+> 此部分存放了我在数据结构课程中理论课和实验课所实践的代码，旨在夯实基础。
+> 
+> 1. 线性表 (Linear List)
+> 
+> 2. 栈和队列 (Stack & Queue)
+> 
+> 3. 串，数组和广义表 (String, Array & Generalized tables)
+> 
+> 4. 图 (Graph)
 
-#### 操作系统(Operating System)
+#### 操作系统 (Operating System) ⚙️
+> 存放操作系统相关的学习和实践内容，目前细分为两个子目录，记录不同的学习路径：
+> 
+> * **COS**：存放我在学校操作系统课程中所完成的实验和项目代码。
+> * **OSTEP**：存放研读经典教材《操作系统导论》（OSTEP）时所敲写和完成的练习代码，注重实践理解。
+
+#### Network Engineering 📡
+> 专门用于存放 **《网络工程与设计》** 这门课程的部分作业。
+
+#### Unix Network Programming 🖥️
+> 存放学习专业选修课《Unix网络编程》时所写的各种代码。
