@@ -1,0 +1,14 @@
+# 编译生成的临时文件
+*.o
+*.obj
+
+# 排除 C/C++ 默认的无后缀可执行文件
+a.out
+
+# 排除 Unix 网络编程中的可执行文件
+server
+client
+
+# 其他系统或 IDE 生成的文件
+.DS_Store
+*.log
