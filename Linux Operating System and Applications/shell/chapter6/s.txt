@@ -1,0 +1,12 @@
+zhangsan 1977 male computer 83
+lisi 1989 male math 99
+wanglijiang 1990 female chinese 78
+xuliang 1977 male economic 89
+xuxin 1986 female english 99
+wangxuebing 1978 male math 89
+lichang 1989 male math 99
+wanglijiang 1990 female chinese 78
+zhangsansan 1977 male computer 83 
+langxuebing 1978 male math 89
+lisibao 1989 male math 99
+xiaobao 1990 female chinese 78
